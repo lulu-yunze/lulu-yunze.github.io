@@ -1,8 +1,9 @@
 ---
-layout: redirect
+layout: page
 title: cv
-permalink: /cv/
-redirect_to: /assets/pdf/CV.pdf
+#permalink: /cv/
+permalink: /assets/pdf/CV.pdf
+#redirect_to: /assets/pdf/CV.pdf
 nav: true
 #nav_order: 5
 ---
