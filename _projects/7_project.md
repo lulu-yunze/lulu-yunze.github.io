@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: AI-Generated Art Detection
+description: UofT TMI Project Lead \n Finetuning ResNet and VGG to detect AI art. Generating captions using BLIP and corresponding images using Stable Diffusion.
 img: assets/img/4.jpg
+permalink: https://github.com/uoft-tmi/ai-generated-art-detection
 importance: 1
 category: work
 related_publications: true
