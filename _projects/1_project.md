@@ -4,7 +4,7 @@ title: Perch
 description: "Best AI Hack" awarded project at GenAIGenesis2024.
 importance: 1
 category: work
-img: assets/img/12.jpg
+img: assets/img/perch.jpg
 related_publications: false
 ---
 
