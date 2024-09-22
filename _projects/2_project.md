@@ -8,6 +8,7 @@ importance: 2
 category: work
 giscus_comments: true
 ---
+<meta http-equiv="refresh" content="0; url=https://github.com/lulu-yunze/TheMaskAway" />
 
 Testing the text
 
