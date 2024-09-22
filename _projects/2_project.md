@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MaskAway
+permalink: https://github.com/lulu-yunze/TheMaskAway
 description: Removing mask from photos taken during the pandemic and inpainting the lower face area
 img: assets/img/3.jpg
 importance: 2
