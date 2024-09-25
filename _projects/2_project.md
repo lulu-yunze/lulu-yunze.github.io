@@ -6,6 +6,7 @@ description: Removing masks from photos taken during the pandemic and inpainting
 img: assets/img/maskaway.png
 importance: 2
 category: work
+redirect: https://github.com/lulu-yunze/TheMaskAway
 ---
 
 Redirecting...
