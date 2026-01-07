@@ -12,4 +12,3 @@ redirect: https://github.com/lulu-yunze/TheMaskAway
 Redirecting...
 
 <meta http-equiv="refresh" content="0; url=https://github.com/lulu-yunze/TheMaskAway" />
-
